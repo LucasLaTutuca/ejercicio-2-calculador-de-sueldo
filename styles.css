@@ -1,0 +1,55 @@
+body{
+    background-color: slategray;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: aliceblue;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+}
+.formularioDeIngresos{
+    display: flex;
+    margin: 15px 0;
+    height: 50px;
+    width: 100%;
+    justify-content: space-around;
+}
+.sueldoAnualUsuario{
+    height: 50px;
+}
+.calcularIngresosPorMes{
+    height: 30px;
+    align-self: center;
+}
+.ingresosMensualUsuario{
+    height: 50px;
+    color: black;
+}
+.sueldoPorMes{
+    height: 50px;
+}
+.calcularIngresosPorAño{
+    height: 30px;
+    align-self: center;
+}
+.IngresoAnual{
+    height: 50px;
+    color: black;
+}
+.calcularIngresosPorDia{
+    height: 30px;
+    align-self: center;
+}
+.sueldoPorMesDos{
+    height: 50px;
+}
+.IngresoDiario{
+    height: 50px;
+    color: black;
+}
